@@ -1,5 +1,5 @@
 # Base64UnicodeFilter
-A simple application to filtered brute force base64 encoded unicode that can be used to generate random unicode password later on
+A simple application to filter brute force base64 encoded unicode that can be used to generate random unicode password later on
 
 When people talk about random password generation, it's quite lame to only able to generate them in ASCII format,
 but generating a unicode password is hard, it consists of 3 steps:
